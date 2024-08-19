@@ -1,0 +1,134 @@
+* {
+    font-family: Oxanium;
+    top: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(10, 10, 10);
+  }
+
+  .nav {
+    height: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+  }
+
+  .logo {
+    text-align: left;
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+
+
+  html {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  main {
+    background-color: rgb(10, 10, 10);
+    height: 100vh;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    height: 38px;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 0.6px;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+  }
+  
+ 
+  
+  .container {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(24, 24, 24);
+    border-radius: 15px;
+  }
+  
+  #input {
+    width: 300px;
+    height: 37px;
+    border-radius: 8px;
+    background-color: rgb(55, 55, 55);
+    border: none;
+    display: block;
+    margin: auto;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  #shorten {
+    width: 91px;
+    height: 37px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(55, 55, 55);
+    margin-top: 48px;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #ffffff;
+    margin-right: -3px;
+    transition: linear-gradient 1s ease;
+  }
+  
+  #shorten:hover {
+    background: linear-gradient(to right, #3f74ff, #7b3fff);
+    box-shadow: 
+    0 0 10px rgba(63, 116, 255, 0.6),
+    0 0 20px rgba(123, 63, 255, 0.4),
+    0 0 30px rgba(63, 116, 255, 0.2);
+    cursor: pointer;
+    border: none;
+    color: black;
+    cursor: pointer;
+  }
+  
+  #shorten:active {
+    background-color: #ffffff;
+    border: solid 0.8px #4a4a4a;
+    color: #1f233e;
+    cursor: pointer;
+  }
+  
+  #responseField {
+    min-width: 191px;
+    min-height: 120px;
+    margin: auto;
+    margin-top: 25px;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #ffffff;
+    overflow: auto;
+  }
+  
