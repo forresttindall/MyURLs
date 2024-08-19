@@ -1,8 +1,8 @@
 // Information to reach API
-const apiKey = 'fb8ba563eda545f9b11c161d9b6532d6';
+const apiKey = 'API-KEY';
 const url = 'https://api.rebrandly.com/v1/links';
 //need correct domain ID
-const customDomainId = '30b79b61eea64ffda504d369de3913d5';
+const customDomainId = 'DOMAIN-ID';
 
 
 const inputField = document.querySelector('#input');
