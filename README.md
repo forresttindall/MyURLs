@@ -2,7 +2,10 @@
 
 ## Personal Branded Short URLs
 
-[Link GitHub](https://github.com/your-repo)  
+[Link](https://www.forresttindall.com/myurl.html) 
+
+
+
 MyURLs is a web application designed to create custom branded short URLs using my personal domain, forresttindall.com. This tool enhances personal branding by allowing you to shorten any URL with a custom domain, while also offering link tracking and analytics capabilities.
 
 ### Features
